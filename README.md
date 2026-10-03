@@ -1,5 +1,5 @@
 
-# End-to-End Machine Learning Project
+# End-to-End Machine Learning Project using Logistic Regression
 
 This repository contains an end-to-end Machine Learning pipeline built using Google Colab.
 
